@@ -11,9 +11,9 @@ Datasets:
           
 Main files: 
 
-          (a) quantum_homology - full NSQ-TDA agorithm with QISKIT circuit compilation. Using aer.backend, choose the machine to run
+          (a) quantum_homology - full NISQ-TDA agorithm with QISKIT circuit compilation. Using aer.backend, choose the machine to run
 
-          (b) quantum_homology_sim - full NSQ-TDA agorithm with QISKIT circuit compilation and simuation
+          (b) quantum_homology_sim - full NISQ-TDA agorithm with QISKIT circuit compilation and simuation
             
           (c) quantum_rank_estimation - new quanutm algorithm for matrix rank estimation
             

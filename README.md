@@ -15,7 +15,7 @@ Main files:
 
           (b) quantum_homology_sim - full NISQ-TDA agorithm with QISKIT circuit compilation and simuation
             
-          (c) quantum_rank_estimation - new quanutm algorithm for matrix rank estimation
+          (c) quantum_rank_estimation - new quantum algorithm for matrix rank estimation
             
           (d) quantum_gpu - quantum simulations with GPU enabled
             
